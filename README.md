@@ -34,7 +34,6 @@ Los resultados son consistentes con la evidencia macroeconómica para economías
 - `PBI.xlsx`, `IPC MENSUAL.xlsx` → Datos utilizados
 
 ##  Herramientas
-- Python
 - pandas, numpy
 - statsmodels
 - matplotlib
