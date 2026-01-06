@@ -7,14 +7,14 @@ Evaluar empíricamente si una economía operando por encima de su producto poten
 
 ## Datos
 - **Producto Bruto Interno (PBI) trimestral** – BCRP  
-- **Índice de Precios al Consumidor (IPC)** – BCRP  
+- **Índice de Precios al Consumidor (IPC) ** – BCRP  
 - Periodo de análisis: **2000–2024**
 
 ##  Metodología
 - Transformación del PBI en logaritmos
 - Estimación del producto potencial mediante el **Filtro Hodrick–Prescott (λ = 1600)**
 - Construcción de la brecha del producto (componente cíclico)
-- Estimación de una **Curva de Phillips dinámica** mediante regresión múltiple
+- Estimación de una **Curva de Phillips NEOKEYNESIANA** mediante regresión múltiple
 - Corrección por autocorrelación usando **errores robustos de Newey–West (HAC)**
 
 Modelo estimado:
