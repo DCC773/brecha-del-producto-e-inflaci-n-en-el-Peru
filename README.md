@@ -7,7 +7,7 @@ Evaluar empíricamente si una economía operando por encima de su producto poten
 
 ## Datos
 - **Producto Bruto Interno (PBI) trimestral** – BCRP  
-- **Índice de Precios al Consumidor (IPC) ** – BCRP  
+- **Índice de Precios al Consumidor (IPC)** – BCRP  
 - Periodo de análisis: **2000–2024**
 
 ##  Metodología
