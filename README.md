@@ -26,7 +26,7 @@ Modelo estimado:
 - Impacto **positivo y significativo** del output gap sobre la inflación (p < 0.10)
 - Buen poder explicativo del modelo (R² ≈ 0.82)
 
-Los resultados son consistentes con la evidencia macroeconómica para economías con metas de inflación creíbles.
+La hipótesis  se confirma: cuando la economía crece por encima de su potencial (brecha positiva), genera presiones inflacionarias. En concreto, un aumento de 1 punto porcentual en la brecha del producto eleva la inflación en promedio en 2.26 puntos porcentuales
 
 ## Contenido del repositorio
 - `Output_Gap_e_Inflacion_Evidencia_para_el_Peru.pdf` → Documento final
