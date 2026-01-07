@@ -41,3 +41,9 @@ La hipótesis  se confirma: cuando la economía crece por encima de su potencial
 ##  Autor
 **David Carruitero Castillo**  
 Econometría Aplicada
+
+## referencias
+
+Aquino, J. C. (2019). "La curva de Phillips Neokeynesiana de una economía pequeña y abierta: Especificación, quiebres estructurales y robustez". Revista Estudios Económicos N°38, Banco Central de Reserva del Perú. Disponible en: https://www.bcrp.gob.pe/docs/Publicaciones/Revista-Estudios-Economicos/38/ree-38-aquino.pdf
+
+Mankiw, N. G. (2013 o edición similar). Macroeconomía (8a edición). Disponible en: https://www.ricardopanza.com.ar/files/macro1/Macroeconomia__8a_ed.___Gregory_Mankiw.pdf
