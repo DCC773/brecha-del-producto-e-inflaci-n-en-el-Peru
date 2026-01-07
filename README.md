@@ -47,3 +47,8 @@ Econometría Aplicada
 Aquino, J. C. (2019). "La curva de Phillips Neokeynesiana de una economía pequeña y abierta: Especificación, quiebres estructurales y robustez". Revista Estudios Económicos N°38, Banco Central de Reserva del Perú. Disponible en: https://www.bcrp.gob.pe/docs/Publicaciones/Revista-Estudios-Economicos/38/ree-38-aquino.pdf
 
 Mankiw, N. G. (2013 o edición similar). Macroeconomía (8a edición). Disponible en: https://www.ricardopanza.com.ar/files/macro1/Macroeconomia__8a_ed.___Gregory_Mankiw.pdf
+
+Dennery, C. (2019), “Dampened expectations in the Phillips Curve: A note”, Economic Letters.
+https://infoscience.epfl.ch/server/api/core/bitstreams/0f0e943b-3c9b-4823-8fba-dd76156ad191/content
+
+
